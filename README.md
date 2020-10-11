@@ -19,8 +19,7 @@ conda env create -f ./environment.yml
 Python environment & main libraries:
 
 * python 3.8
-
-- pytorch 1.5.0
+* pytorch 1.5.0
 * scikit-learn 0.22.1
 * torchvision 0.6.0
 
@@ -159,7 +158,7 @@ Our model achieves the following performance on (without fine-tuning) :
 @inproceedings{kim2020merging,
   title     = {Neuron Merging: Compensating for Pruned Neurons},
   author    = {Kim, Woojeong and Kim, Suhyun and Park, Mincheol and Jeon, Geonseok},
-  booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
+  booktitle = {Advances in Neural Information Processing Systems},
   year      = {2020}
 }
 ```
