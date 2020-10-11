@@ -1,6 +1,6 @@
 # Neuron Merging: Compensating for Pruned Neurons
 
-This repository is the official implementation of  **Neuron Merging: Compensating for Pruned Neurons**, submitted to 34th Conference on Neural Information Processing Systems (NeurIPS 2020).
+This repository is the official implementation of  **Neuron Merging: Compensating for Pruned Neurons**, accpeted at 34th Conference on Neural Information Processing Systems (NeurIPS 2020).
 
 
 
