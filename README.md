@@ -150,3 +150,16 @@ Our model achieves the following performance on (without fine-tuning) :
 | $l_1$-norm | 88.70% | **93.16%** |
 | $l_2$-norm | 89.14% | **93.16%** |
 | $l_2$-GM   | 87.85% | **93.10%** |
+
+
+
+## Citation
+
+```
+@inproceedings{kim2020merging,
+  title     = {Neuron Merging: Compensating for Pruned Neurons},
+  author    = {Kim, Woojeong and Kim, Suhyun and Park, Mincheol and Jeon, Geonseok},
+  booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
+  year      = {2020}
+}
+```
