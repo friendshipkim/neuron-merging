@@ -160,7 +160,7 @@ Our model achieves the following performance on (without fine-tuning) :
 @inproceedings{kim2020merging,
   title     = {Neuron Merging: Compensating for Pruned Neurons},
   author    = {Kim, Woojeong and Kim, Suhyun and Park, Mincheol and Jeon, Geonseok},
-  booktitle = {Advances in Neural Information Processing Systems 34},
+  booktitle = {Advances in Neural Information Processing Systems 33},
   year      = {2020}
 }
 ```
